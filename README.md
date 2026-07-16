@@ -63,7 +63,7 @@ interests:
 - Scalable REST APIs for PYQ browsing, DPP practice, and attendance tracking
 - Integrating AI doubt solving & personalized performance analytics
 
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat&logo=github)](https://github.com/theskylighter/minor-project-with-dashboard)
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat&logo=github)](https://github.com/Hardikdhoot121/hybridX) [![Live](https://img.shields.io/badge/Live-Demo-000000?style=flat&logo=vercel)](https://hybrideducationhub.in/)
 
 </td>
 <td width="50%">
@@ -76,6 +76,7 @@ interests:
 - Integrated secure payment gateways and robust registration workflows
 
 [![Live](https://img.shields.io/badge/Live-Demo-000000?style=flat&logo=vercel)](https://www.cbpmnit.in/)
+
 
 </td>
 </tr>
@@ -103,6 +104,7 @@ interests:
 
 [![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat&logo=github)](https://github.com/Hardikdhoot121/MultiRag-DocMind_AI) [![Live](https://img.shields.io/badge/Live-Demo-000000?style=flat&logo=streamlit)](https://multirag-docmind-ai.streamlit.app)
 
+
 </td>
 </tr>
 </table>
@@ -113,7 +115,7 @@ interests:
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,js,mysql,bash,react,express,flask,tailwind,git,docker,vscode,linux&perline=8" />
+    <img src="https://skillicons.dev/icons?i=cpp,python,js,mysql,bash,react,express,flask,tailwind,git,vscode,&perline=8" />
   </a>
 </p>
 
