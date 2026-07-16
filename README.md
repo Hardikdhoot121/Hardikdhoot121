@@ -18,7 +18,7 @@
 <tr>
 <td width="42%" valign="top">
 
-<img src="assets/portrait.png" width="360" alt="ASCII portrait" />
+<img src="https://res.cloudinary.com/dgsxkuegf/image/upload/v1784172453/Untitled_design_wss9g0.png" width="360" alt="ASCII portrait" />
 
 </td>
 <td width="58%" valign="top">
@@ -93,6 +93,16 @@ interests:
 
 </td>
 <td width="50%">
+
+### 🧠 MultiRAG DocMind AI
+`Python` `LangChain` `Gemini` `Pinecone` `Streamlit`
+
+- Enterprise-grade multi-modal RAG pipeline for PDFs & images
+- Semantic search via Pinecone + Gemini embeddings with source-aware answers
+- Supports duplicate caching, rate-limit handling & multi-file uploads
+
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat&logo=github)](https://github.com/Hardikdhoot121/MultiRag-DocMind_AI) [![Live](https://img.shields.io/badge/Live-Demo-000000?style=flat&logo=streamlit)](https://multirag-docmind-ai.streamlit.app)
+
 </td>
 </tr>
 </table>
