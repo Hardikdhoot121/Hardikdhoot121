@@ -25,7 +25,9 @@
 
 ```yaml
 name: "Hardik Dhoot"
-education: "B.Tech in Chemical Engineering at MNIT Jaipur"
+education: 
+  - B.Tech in Chemical Engineering at MNIT Jaipur
+  - Minor Specialization in Computer Science and Engineering
 focus:
   - "Data Structures & Algorithms"
   - "Competitive Programming"
