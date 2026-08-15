@@ -52,8 +52,6 @@ interests:
 
 ---
 
-## 🚀 Featured Projects
-
 <table>
 <tr>
 <td width="50%">
@@ -63,7 +61,7 @@ interests:
 
 - Full-stack MERN platform with role-based dashboards & protected JWT auth
 - Scalable REST APIs for PYQ browsing, DPP practice, and attendance tracking
-- Integrating AI doubt solving & personalized performance analytics
+- Integrating personalized performance analytics
 
 [![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat&logo=github)](https://github.com/Hardikdhoot121/hybridX) [![Live](https://img.shields.io/badge/Live-Demo-000000?style=flat&logo=vercel)](https://hybrideducationhub.in/)
 
@@ -79,20 +77,19 @@ interests:
 
 [![Live](https://img.shields.io/badge/Live-Demo-000000?style=flat&logo=vercel)](https://www.cbpmnit.in/)
 
-
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 📝 React Core: To-Do Ledger
-`React.js` `JavaScript` `Local Storage` `CSS`
+### 🏦 Backend Ledger: Banking & Transaction System
+`Node.js` `Express.js` `MongoDB` `JWT` `Nodemailer`
 
-- Built to master React fundamentals, state hooks, and session persistence
-- Features full CRUD operations: dynamically add, edit, toggle, and delete tasks
-- Leveraged HTML5 LocalStorage to preserve user state across sessions
+- Financial-grade, double-entry ledger backend with immutable audit trail
+- ACID multi-document transactions using MongoDB sessions to prevent race conditions
+- Live balance derivation via aggregation pipelines & idempotency key enforcement
 
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat&logo=github)](https://github.com/theskylighter/minor-project-with-dashboard) [![Live](https://img.shields.io/badge/Live-Demo-000000?style=flat&logo=vercel)](https://to-do-list-three-brown-18.vercel.app/)
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat&logo=github)](https://github.com/Hardikdhoot121/Backend-BankingSystem)
 
 </td>
 <td width="50%">
@@ -106,12 +103,9 @@ interests:
 
 [![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat&logo=github)](https://github.com/Hardikdhoot121/MultiRag-DocMind_AI) [![Live](https://img.shields.io/badge/Live-Demo-000000?style=flat&logo=streamlit)](https://multirag-docmind-ai.streamlit.app)
 
-
 </td>
 </tr>
 </table>
-
----
 
 ### 🧰 Tools and Tech Stuff
 
