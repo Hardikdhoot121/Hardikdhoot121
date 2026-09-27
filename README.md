@@ -18,7 +18,7 @@
 <tr>
 <td width="42%" valign="top">
 
-<img src="assets/profile.png" width="360" alt="ASCII portrait" />
+<img src="assets/linkedin_pp.png" width="360" alt="ASCII portrait" />
 
 </td>
 <td width="58%" valign="top">
