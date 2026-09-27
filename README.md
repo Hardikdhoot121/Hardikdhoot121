@@ -134,29 +134,29 @@ currently:
 
 ## 🏆 Achievements & Milestones
 
-* ### 👨🏫 **DSA & Coding Mentor** | *C2C Club, Training & Placement Cell, MNIT Jaipur*
-  > Spearheaded technical mentorship initiatives, training peers and juniors in advanced algorithmic paradigms, data structures, and interview-ready problem-solving strategies.
+* ###  **DSA & Coding Mentor** | *C2C Club, Training & Placement Cell, MNIT Jaipur*
+  > Training juniors in algorithmic paradigms and data structures, and organizing weekly contest discussions to keep the momentum going.
 
-* ### 🚀 **GirlScript Summer of Code (GSSoC '26) Contributor**
-  > Successfully contributed to the open-source ecosystem by collaborating across **5+ repositories**. Authored and merged impactful pull requests focusing on feature optimization and code quality.
+* ###  **GSSoC '26 Contributor**
+  > Overcame the fear of merge conflicts, actually understood the Git tree hierarchy, and turned that into 7 merged PRs — landing rank #916 globally out of 43,587 participants (Top 2.1%) with a leaderboard score of 4,503 and 9 badges earned.
 
-* ### ⚡ **Codeforces Pupil**
-  > Maintained a competitive programming profile on Codeforces, demonstrated active problem-solving skills, and continually optimized algorithmic approaches under strict runtime constraints.
-
----
-
-## 🎯 What I'm Looking For
-
-- 🤝 **Collaboration Opportunities** on full-stack web applications.
-- 💼 **Internship & Job Positions** within fast-paced software engineering roles.
-- 📖 **Mentorship & Knowledge Sharing** with active developer communities.
-- 🚀 Deep-diving into **Open-Source Contributions**.
+* ###  **Codeforces Pupil**
+  > What it's actually looked like so far: 30% debugging my own code, 50% debugging the editorial's code and wondering how I missed something that simple, and 20% getting the logic right within seconds and writing it up.
 
 ---
 
-## ✨ Let's Build Something Amazing Together!
+## git checkout -b Tech-Nerd
 
-I'm always enthusiastic about discussing new ideas, tackling complex architectural structures, or sharing technical learning journeys. **Don't hesitate to reach out!** Whether it's an innovative startup concept, an open project idea, or a casual tech discussion—I'm down for it. 🤝
+*  My code runs on Tea, documentation, and sheer willpower. AI is strictly the last resort when absolutely nothing else works ☕.
+*  I've got 99 problems, and finding a collaborative dev team to build with is currently number one 🤝.
+* Full-Stack & AI Engineer seeking a fast-paced team that deeply values clean code and top-tier office snacks 🍕.
+* And yes, I actually review pull requests faster than I reply to my text messages. Let's collaborate!
+---
+
+## ✨ Ping Me Anytime
+
+1. **No latency here:** Don't hesitate to reach out! Whether you have an open-source project, some cool AI stuff, or just want a casual tech brain-dump.
+2. **Fueled by curiosity (and Tea):** Drop a message and let's turn ideas into production-ready code!
 
 <p align="center">
   Made with ❤️ by <strong>Hardik Dhoot</strong>
