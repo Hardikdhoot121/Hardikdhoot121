@@ -18,38 +18,34 @@
 <tr>
 <td width="42%" valign="top">
 
-<img src="https://res.cloudinary.com/dgsxkuegf/image/upload/v1784172453/Untitled_design_wss9g0.png" width="360" alt="ASCII portrait" />
+<img src="assets/profile.png" width="360" alt="ASCII portrait" />
 
 </td>
 <td width="58%" valign="top">
 
 ```yaml
 name: "Hardik Dhoot"
-education: 
+role: "Full-Stack Developer | Exploring AI"
+education:
   - B.Tech in Chemical Engineering at MNIT Jaipur
   - Minor Specialization in Computer Science and Engineering
-focus:
-  - "Data Structures & Algorithms"
-  - "Competitive Programming"
-  - "Full-Stack Web Development"
-  - "Generative AI & LLM Applications"
-  - "Open Source Contributions"
+personality:
+  - "Genuinely enjoys exploring new stacks over sticking to one"
+  - "Reads the docs before reading Stack Overflow"
+  - "Refers to blogs and RFCs instead of asking AI first"
+  - "Believes learning happens by building, not by watching"
 hobbies:
-  - "Solving DSA problems"
+  - "Calisthenics"
   - "Competitive Programming"
-  - "CODE AND CALISTHENICS"
-  - "Learning emerging technologies"
-interests:
-  - "Building scalable web applications"
-  - "Designing developer-friendly products"
-  - "Exploring software architecture patterns"
-  - "AI-powered productivity tools"
+  - "Breaking my own code just to understand it better"
+currently:
+  - "Learning while building, not just building while learning"
+  - "Started with reactors and thermodynamics, ended up debugging APIs at 2 AM"
 ```
-
+**reality_check:** still googling "git rebase vs merge" more often than I'd like to admit, and pretending I meant to do that "force push" the whole time 😅.
 </td>
 </tr>
 </table>
-
 ---
 
 <table>
