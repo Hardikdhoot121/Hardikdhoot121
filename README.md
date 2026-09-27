@@ -145,7 +145,7 @@ currently:
 
 ---
 
-## git checkout -b Tech-Nerd
+## ✅ git checkout -b Tech-Nerd
 
 *  My code runs on Tea, documentation, and sheer willpower. AI is strictly the last resort when absolutely nothing else works ☕.
 *  I've got 99 problems, and finding a collaborative dev team to build with is currently number one 🤝.
