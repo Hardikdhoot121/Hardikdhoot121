@@ -52,17 +52,18 @@ currently:
 <tr>
 <td width="50%">
 
-### 🎓 HybridX : JEE Prep Platform
-`MongoDB` `Express.js` `React` `Node.js` `JWT`
+### 🎓 HybridX : JEE Prep & Analytics Platform
+`React` `Node.js` `Express` `MongoDB` `Redis` `JWT` `KaTeX`
 
-- Full-stack MERN platform with role-based dashboards & protected JWT auth
-- Scalable REST APIs for PYQ browsing, DPP practice, and attendance tracking
-- Integrating personalized performance analytics
+- Full-stack JEE prep engine featuring **KaTeX LaTeX math rendering** for MCQ & numerical questions.
+- Integrated an in-memory **Redis Cache-Aside** layer, slashing profile latency by **~96% (2.78s → 103ms)**.
+- Secure **RBAC & Google OAuth 2.0** auth pipeline with automated cron heartbeats to prevent container cold starts.
 
 [![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat&logo=github)](https://github.com/Hardikdhoot121/hybridX) [![Live](https://img.shields.io/badge/Live-Demo-000000?style=flat&logo=vercel)](https://hybrideducationhub.in/)
 
 </td>
 <td width="50%">
+
 
 ### 🎪 CBP MNIT : Event Website
 `React.js` `Node.js` `REST API` `UI/UX`
