@@ -93,9 +93,9 @@ currently:
 ### 🧠 MultiRAG DocMind AI
 `Python` `LangChain` `Gemini` `Pinecone` `Streamlit`
 
-- Enterprise-grade multi-modal RAG pipeline for PDFs & images
-- Semantic search via Pinecone + Gemini embeddings with source-aware answers
-- Supports duplicate caching, rate-limit handling & multi-file uploads
+- Multi-modal RAG pipeline supporting PDFs & scanned images via Gemini Vision
+- Unified vector search using Pinecone + `text-embedding-004` with context-bounded answers
+- Session-based file caching, API rate-limit batching & exponential retry handling
 
 [![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat&logo=github)](https://github.com/Hardikdhoot121/MultiRag-DocMind_AI) [![Live](https://img.shields.io/badge/Live-Demo-000000?style=flat&logo=streamlit)](https://multirag-docmind-ai.streamlit.app)
 
