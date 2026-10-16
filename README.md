@@ -69,7 +69,7 @@ currently:
 `React.js` `Node.js` `REST API` `UI/UX`
 
 - Developed official college event platform with optimized, responsive UI/UX
-- Handled **500+ real-time registrations** with smooth transaction flow
+- Handled **150+ real-time registrations** with smooth transaction flow
 - Integrated secure payment gateways and robust registration workflows
 
 [![Live](https://img.shields.io/badge/Live-Demo-000000?style=flat&logo=vercel)](https://www.cbpmnit.in/)
